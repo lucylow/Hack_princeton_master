@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<!-- Copyright (c) Microsoft. All rights reserved. Licensed under the MIT license.
+ See LICENSE in the project root for license information -->
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Meeting Taker</title>
+
+    <!-- <script src="http://localhost:1337/vorlon.js"></script>     -->
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.4.min.js"></script>
+    <script src="https://appsforoffice.microsoft.com/lib/1.1/hosted/office.js" type="text/javascript"></script>
+    <script src="content/Jquery.Dropdown.js"></script>
+    <script src="sample.js" type="text/javascript"></script>
+    <script src="./recorder.js"></script>
+
+    <link rel="stylesheet" href="https://appsforoffice.microsoft.com/fabric/1.0/fabric.min.css">
+    <link rel="stylesheet" href="https://appsforoffice.microsoft.com/fabric/1.0/fabric.components.min.css">
+    <link rel="stylesheet" href="content/styles.css" type="text/css" />
+    <link rel="stylesheet" href="content/dropdown.css" type="text/css" />
+
+</head>
+
+<body class="ms-font-m">
+    <button id="start" class="ms-Button" id="makeSillyStory">
+        <span class="ms-Button-label">Start Listening</span>
+    </button>
+    <button id="end" class="ms-Button" id="makeSillyStory">
+        <span class="ms-Button-label">StopListening</span>
+    </button>
+    <ul id="recordingslist"></ul>
+</body>
+
+</html>
