@@ -1,3 +1,5 @@
+Hack Princeton - Microsoft Word + Audio Parsing Edit
+
 Configure and run on Word for Mac 2016
 
 1.Create a folder called “wef” in Users/Library/Containers/com.microsoft.word/Data/Documents/
