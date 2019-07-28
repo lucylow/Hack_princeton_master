@@ -1,4 +1,4 @@
-# Hack Princeton - Microsoft Word + Audio Parsing Edit
+# Hack Princeton - Microsoft Word + Audio Parsing 
 
 ## Configure and run on Word for Mac 2016
 
