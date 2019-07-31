@@ -3,7 +3,7 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>Live input record and playback</title>
+	<title>Microsoft Word + Audio Parsing </title>
   <style type='text/css'>
     ul { list-style: none; }
     #recordingslist audio { display: block; margin-bottom: 10px; }
@@ -11,15 +11,14 @@
 </head>
 <body>
 
-  <h1>Recorder.js simple WAV export example</h1>
-
+  <h1>Live input record and playback </h1>
   <p>Make sure you are using a recent version of Google Chrome.</p>
   <p>Also before you enable microphone input either plug in headphones or turn the volume down if you want to avoid ear splitting feedback!</p>
 
   <button onclick="startRecording(this);">record</button>
   <button onclick="stopRecording(this);" disabled>stop</button>
   
-  <h2>Recordings</h2>
+  <h2>Recordings for Audio Parsing</h2>
   <ul id="recordingslist"></ul>
   
   <h2>Log</h2>
@@ -37,9 +36,6 @@
     var input = audio_context.createMediaStreamSource(stream);
     __log('Media stream created.');
 
-    // Uncomment if you want the audio to feedback directly
-    //input.connect(audio_context.destination);
-    //__log('Input connected to audio context destination.');
     
     recorder = new Recorder(input);
     __log('Recorder initialised.');
@@ -58,7 +54,6 @@
     button.previousElementSibling.disabled = false;
     __log('Stopped recording.');
     
-    // create WAV download link using audio data blob
     createDownloadLink();
     
     recorder.clear();
