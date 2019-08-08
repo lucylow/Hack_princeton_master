@@ -2,7 +2,7 @@
 
 ## Microsoft Word + Audio Parsing
 
-(っ•́｡•́)♪♬
+(っ•́｡•́) ♪ ♬ ♪ ♬ ♪ ♬ ♪ ♬ ♪ ♬ ♪ ♬ 
 
 ## Configure and run on Word for Mac 2016
 
