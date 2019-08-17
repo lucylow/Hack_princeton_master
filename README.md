@@ -10,6 +10,7 @@
 
 ## Screenshots 
 ![Image](https://github.com/lucylow/Hack_princeton_master/blob/master/prince_instruct.png)
+*Image. The add-in listed in the drop down.*
 
 ![Image](https://github.com/lucylow/Hack_princeton_master/blob/master/prince_screenshot2.png)
-
+*Image. The add-in on the right-side of Microsoft Word.*
