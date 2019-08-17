@@ -1,4 +1,4 @@
-# Hack Princeton Microsoft Word + Audio Parsing
+# Hack Princeton : Microsoft Word + Audio Parsing
 
 ---
 
