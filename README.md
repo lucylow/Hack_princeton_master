@@ -1,8 +1,6 @@
 # Hack Princeton : Microsoft Word + Audio Parsing
 
-(っ•́｡•́) ♪ ♬ ♪ ♬ ♪ ♬ ♪ ♬ ♪ ♬ ♪ ♬ 
-
-## Configure and run on Word for Mac 2016
+**Configure and run on Word for Mac 2016**
 
 1.Create a folder called “wef” in Users/Library/Containers/com.microsoft.word/Data/Documents/
 
@@ -12,5 +10,5 @@
 
 ## Screenshots 
 
-![Image](https://github.com/lucylow/Hack_princeton_master/blob/master/hackprinceton.png)
+![Image](https://github.com/lucylow/Hack_princeton_master/blob/master/prince_screenshot.png)
 
