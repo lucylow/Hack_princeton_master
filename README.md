@@ -1,4 +1,4 @@
-# Hack Princeton : Microsoft Word + Audio Parsing
+# Hack Princeton Microsoft Word + Audio Parsing
 
 **Configure and run on Word for Mac 2016**
 
@@ -9,6 +9,7 @@
 3.Open Word 2016 on the Mac and click on the Insert tab > My Add-ins drop down. You should see the add-in listed in the drop down. Select it and it will load the add-in.
 
 ## Screenshots 
+![Image](https://github.com/lucylow/Hack_princeton_master/blob/master/prince_instruct.png)
 
 ![Image](https://github.com/lucylow/Hack_princeton_master/blob/master/prince_screenshot2.png)
 
