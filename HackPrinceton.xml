@@ -8,10 +8,10 @@
   <Version>1.0</Version>
   <ProviderName>Microsoft</ProviderName>
   <DefaultLocale>EN-US</DefaultLocale>
-  <DisplayName DefaultValue="Silly stories add-in"/>
-  <Description DefaultValue="Make silly stories and laugh your head off."/>
+  <DisplayName DefaultValue="Microsoft Word Audio Parsing Add-In"/>
+  <Description DefaultValue="Configure and run on Word for Mac 2016."/>
   <Hosts>
-    <Host Name="Document"/>
+    <Host Name="Word Document"/>
   </Hosts>
   <DefaultSettings>
     <SourceLocation DefaultValue="http://127.0.0.1:8080"/>
