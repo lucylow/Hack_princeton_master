@@ -14,5 +14,5 @@
 
 ## Screenshots 
 
-[Image] (https://github.com/lucylow/Hack_princeton_master/blob/master/readme-images/sillystoriesUI.PNG)
+![Image](https://github.com/lucylow/Hack_princeton_master/blob/master/readme-images/sillystoriesUI.PNG)
 
