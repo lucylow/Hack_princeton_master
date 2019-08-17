@@ -10,5 +10,5 @@
 
 ## Screenshots 
 
-![Image](https://github.com/lucylow/Hack_princeton_master/blob/master/prince_screenshot.png)
+![Image](https://github.com/lucylow/Hack_princeton_master/blob/master/prince_screenshot2.png)
 
